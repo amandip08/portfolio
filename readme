@@ -1,0 +1,28 @@
+# Portfolio Website 
+
+Welcome to the official repository of my personal portfolio website! This project is built to showcase my background, technical expertise, education, and projects as a **Data Analyst & Machine Learning Practitioner**[cite: 2].
+
+## Live Demo
+Check out the live portfolio: [Portfolio Link](https://amandip08.github.io/Portfolio) *(Update this link if you use GitHub Pages)*
+
+##  Built With & Technologies
+The portfolio is designed with a clean, responsive layout using modern frontend technologies:
+* **HTML5** & **CSS3** (with custom styling and semantic structure)
+* **JavaScript** (for navigation, smooth scrolling, and page interactions)
+* **Google Fonts (Inter)** for modern typography
+
+## Key Sections Included
+* **Hero Section:** Introduction featuring professional titles (Data Analyst & Machine Learning Practitioner) with a direct resume download option[cite: 2].
+* **Projects Showcase:** Highlighted work featuring:
+  * **Customer Churn Prediction** (Python, Scikit-learn, Pandas, Seaborn)[cite: 2]
+  * **Sales Performance Dashboard** (Power BI, DAX, SQL)[cite: 2]
+  * **Financial Modeling in Excel** (Excel, VBA, Power Query)[cite: 2]
+* **Technical Expertise:** Breakdown of skills across Programming Languages (Python, SQL), Analytics & BI Tools (Power BI, Excel, DAX), and Machine Learning Libraries (Scikit-learn, NumPy)[cite: 2].
+* **Education Journey:** Academic background including BCA and M.Sc. Information Technology from GGDSD College, Chandigarh[cite: 2].
+* **Contact & Socials:** Direct links to connect via Email, LinkedIn, and GitHub[cite: 2].
+
+##  Getting Started Locally
+If you want to view or run this portfolio locally on your machine:
+1. Clone this repository or download the ZIP folder:
+   ```bash
+   git clone [https://github.com/amandip08/Portfolio.git](https://github.com/amandip08/Portfolio.git)
